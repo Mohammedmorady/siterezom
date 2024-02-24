@@ -1,0 +1,23 @@
+ @font-face {
+  font-family: 'yekan';
+  src: url('BYekan.ttf');
+ }
+
+
+
+.adiv{
+    text-align: center; margin-top: 50px;
+
+}
+.aback{
+  background-image:url(https://cdn.downloadefilm.ir/images/7d9277b0-7c28-11ee-a264-d3167ce1c81e.jpg) ; 
+  background-size: cover; 
+}
+.header{
+  font-family: yekan;
+  font-size: 50px;
+}
+.aimg{
+  border: 10px solid rgb(177, 164, 164);
+  
+}
